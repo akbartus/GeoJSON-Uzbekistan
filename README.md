@@ -9,16 +9,18 @@
 
 :world_map: **Shapes and geocoordiates of 14 regions of Uzbekistan**: The file contains coordinates of the following regions and their respective shapes: Andijan Region, Bukhara Region, Fergana Region, Jizzakh Region, Khorezm Region, Namangan Region, Navoiy Region, Kashkadarya Region, Samarkand Region, Syrdarya Region, Surkhandarya Region, Tashkent Region, Republic of Karakalpakstan, Tashkent city.
 
-:heavy_plus_sign: **Sample data for each region**: The file contains sample data (name of region) which corresponds to each given shape.
+:information_source: **Sample data for each region**: The file contains sample data (name of region) which corresponds to each given shape.
+
+## Source
+The GeoJSON was developed based on separate data for each of 14 regions of Uzbekistan available at OpenStreetMap (see: https://www.openstreetmap.org/changeset/104908077#map=6/41.523/64.574). 
 
 ## Usage
-Running:
-1. Copy the repository to your own server (local/online). 
-2. Run it.
-3. Upload your own 360 photo or add a link to 360 photo that is available online
-4. Choose perspective, and if necessary, zoom in or out. 
-5. Activate selfie by clicking a button
-6. Decide whether to save or take a new photo.
+To use it:
+1. Save the GeoJSON file (uzbekistan_regional.geojson) available in "geojson" folder to your local computer. 
+2. Integrate with your own project(s).
+
+To add additional data to the GeoJSON file, follow the following steps:
+1. Open GeoJSON editor available for free at https://geojson.io/.
 
 Feel free to upgrade or integrate within your projects. 
 
