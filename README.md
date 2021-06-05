@@ -3,10 +3,10 @@
 <img width="500" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/Uzbekistan_map.jpg">
 </p>
 
-
+## Rationale
+This file was compiled due to lack of GeoJSON for Uzbekistan on Internet. The few existing GeoJSON files for Uzbekistan are outdated and have some coordinate related errors (see for example: https://data.humdata.org/dataset/ubbekistan-update, Tashkent city has wrong coordinates); or for a small fee. Present file was compiled based on OpenStreetMap, the project that creates and distributes free geographic data for the world (https://www.openstreetmap.org/). I hope that this will help to make more robust steps towards data vizualization based on geographical information related to Uzbekistan.   
 
 ## Features
-
 :world_map: **Shapes and geocoordiates of 14 regions of Uzbekistan**: The file contains coordinates of the following regions and their respective shapes: Andijan Region, Bukhara Region, Fergana Region, Jizzakh Region, Khorezm Region, Namangan Region, Navoiy Region, Kashkadarya Region, Samarkand Region, Syrdarya Region, Surkhandarya Region, Tashkent Region, Republic of Karakalpakstan, Tashkent city.
 
 :information_source: **Sample data for each region**: The file contains sample data (name of region) which corresponds to each given shape.
@@ -42,3 +42,7 @@ To edit data in the GeoJSON file, follow the following steps:
 
 ### Examples
 The file can be integrated for data vizualizations projects that utilize geographical data easily. Example (UNDP in Uzbekistan Project): https://i-map.o3.uz. 
+
+### Future Steps
+1. Compiling district based GeoJSON file for Uzbekistan.
+2. Developing an online tool to combine geographical information available on OpenStreetMap and pre-compiled data. 
