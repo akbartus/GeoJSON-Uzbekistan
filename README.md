@@ -24,7 +24,7 @@ To edit data in the GeoJSON file, follow the following steps:
 <img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_0.jpg">
 
 2. Click on "Open" > "File" and load uzbekistan_regional.geojson.
-<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_2.jpg">
+<img style="width:400px; align:center;" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_2.jpg">
 
 3. Click on "Table" on the right side of the window and edit available rows.
 <img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_3.jpg">
