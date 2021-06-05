@@ -1,18 +1,15 @@
 <h1 align="center">GeoJSON file - Uzbekistan</h1>
 <p align="center"><b>This the GeoJSON file for Uzbekistan, which can be used for various data vizualizations based on maps. It contains geometric shapes for 14 administrative units of Uzbekistan as well as sample data, which match with geographic coordinates on the world map.</b><br><br>
-<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/Uzbekistan_map.jpg"><br><br>
-Link to the example app: https://selfie-360.glitch.me/
+<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/Uzbekistan_map.jpg">
 </p>
 
 
 
 ## Features
 
-:camera: **Upload  own 360 photo or use available one on Internet**: Upload own desired 360 photo (of any size) or decide to use the link to a 360 photo that is available on Internet.
+:camera: **Shapes and geocoordiates of 14 regions of Uzbekistan**: The file contains coordinates of the following regions and their respective shapes: Andijan Region, Bukhara Region, Fergana Region, Jizzakh Region, Khorezm Region, Namangan Region, Navoiy Region, Kashkadarya Region, Samarkand Region, Syrdarya Region, Surkhandarya Region, Tashkent Region, Republic of Karakalpakstan, Tashkent city.
 
-:heavy_plus_sign: **Change perspective and zoom in or out**: Change the background/perspective and if necessary, zoom in or out.
-
-:wrench: **Created using A-Frame and Machine Leanring**: The application was created using latest version of A-Frame, Tensorflow.js and BodyPix.js
+:heavy_plus_sign: **Sample data for each region**: The file contains sample data (name of region) which corresponds to each given shape.
 
 ## Usage
 Running:
