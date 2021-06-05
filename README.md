@@ -30,13 +30,14 @@ To edit data in the GeoJSON file, follow the following steps:
 <img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_3.jpg">
 
 4. If there is a need for adding additional information, click on one of 14 regions displayed on the map on the right side of the screen.
-<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_4.jpg">
+
 
 5. In the popup window, click on "add row",  enter required data to the left and right columns and click "save". 
-<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_5.jpg">
+<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_4.jpg">
+
 
 6. Save and see the new column attached on the right of the screen.
-
+<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_5.jpg">
 7. After doing required edits, click on "Save" > GeoJSON.
 <img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_7.jpg">
 
