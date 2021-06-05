@@ -1,6 +1,6 @@
 <h1 align="center">GeoJSON file - Uzbekistan</h1>
 <p align="center"><b>This the GeoJSON file for Uzbekistan, which can be used for various data vizualizations based on maps. It contains geometric shapes for 14 administrative units of Uzbekistan as well as sample data, which match with geographic coordinates on the world map.</b><br><br>
-<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/Uzbekistan_map.jpg">
+<img width="500" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/Uzbekistan_map.jpg">
 </p>
 
 
@@ -21,24 +21,24 @@ To use it:
 
 To edit data in the GeoJSON file, follow the following steps:
 1. Open GeoJSON editor available for free at https://geojson.io/.
-<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_0.jpg">
+<img width="500" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_0.jpg">
 
 2. Click on "Open" > "File" and load uzbekistan_regional.geojson.
-<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_2.jpg">
+<img width="500" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_2.jpg">
 
 3. Click on "Table" on the right side of the window and edit available rows.
-<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_3.jpg">
+<img width="500" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_3.jpg">
 
 4. If there is a need for adding additional information, click on one of 14 regions displayed on the map on the right side of the screen.
 
 5. In the popup window, click on "add row",  enter required data to the left and right columns and click "save". 
-<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_4.jpg">
+<img width="500" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_4.jpg">
 
 6. Save and see the new column attached on the right of the screen.
-<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_5.jpg">
+<img width="500" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_5.jpg">
 
 7. After doing required edits, click on "Save" > GeoJSON.
-<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_6.jpg">
+<img width="500" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_6.jpg">
 
 ### Examples
 The file can be integrated for data vizualizations projects that utilize geographical data easily. Example (UNDP in Uzbekistan Project): https://i-map.o3.uz. 
