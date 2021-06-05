@@ -12,7 +12,7 @@
 :information_source: **Sample data for each region**: The file contains sample data (name of region) which corresponds to each given shape.
 
 ## Source
-The GeoJSON was developed based on separate data for each of 14 regions of Uzbekistan available at OpenStreetMap (see: https://www.openstreetmap.org/changeset/104908077#map=6/41.523/64.574). 
+The GeoJSON was developed based on geodata and shapes for each of 14 regions of Uzbekistan available at OpenStreetMap (see: https://www.openstreetmap.org/changeset/104908077#map=6/41.523/64.574). 
 
 ## Usage
 To use it:
@@ -41,7 +41,4 @@ To edit data in the GeoJSON file, follow the following steps:
 <img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_6.jpg">
 
 ### Examples
-The app could be integrated into different types of projects, be it related to tourism or history. One example of integration could be a VR tour that offers an opportunity to take selfies. Example (Ohio Today Magazine): https://ohiotoday.org/CollegeGreenVR/. 
-
-### Inspiration
-Selfie 360 was developed (and further improved) using Benson Ruan's "Selfie Anywhere" app (https://github.com/bensonruan/Selfie-Anywhere).
+The file can be integrated for data vizualizations projects that utilize geographical data easily. Example (UNDP in Uzbekistan Project): https://i-map.o3.uz. 
