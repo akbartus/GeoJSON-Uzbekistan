@@ -38,7 +38,7 @@ To edit data in the GeoJSON file, follow the following steps:
 <img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_5.jpg">
 
 7. After doing required edits, click on "Save" > GeoJSON.
-
+<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_6.jpg">
 
 ### Examples
 The app could be integrated into different types of projects, be it related to tourism or history. One example of integration could be a VR tour that offers an opportunity to take selfies. Example (Ohio Today Magazine): https://ohiotoday.org/CollegeGreenVR/. 
