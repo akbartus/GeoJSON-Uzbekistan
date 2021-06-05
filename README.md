@@ -1,6 +1,6 @@
 <h1 align="center">GeoJSON file - Uzbekistan</h1>
 <p align="center"><b>This the GeoJSON file for Uzbekistan, which can be used for various data vizualizations based on maps. It contains geometric shapes for 14 administrative units of Uzbekistan as well as sample data, which match with geographic coordinates on the world map.</b><br><br>
-<img src="https://raw.githubusercontent.com/akbartus/geo-json-uzbekistan/img/Uzbekistan_map.jpg"><br><br>
+<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/Uzbekistan_map.jpg"><br><br>
 Link to the example app: https://selfie-360.glitch.me/
 </p>
 
