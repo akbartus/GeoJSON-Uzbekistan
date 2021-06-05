@@ -19,10 +19,14 @@ To use it:
 1. Save the GeoJSON file (uzbekistan_regional.geojson) available in "geojson" folder to your local computer. 
 2. Integrate with your own project(s).
 
-To add additional data to the GeoJSON file, follow the following steps:
+To edit data in the GeoJSON file, follow the following steps:
 1. Open GeoJSON editor available for free at https://geojson.io/.
-
-Feel free to upgrade or integrate within your projects. 
+2. Click on "Open" > "File" and load uzbekistan_regional.geojson.
+3. Click on "Table" on the right side of the window and edit available rows.
+4. If there is a need for adding additional information, click on one of 14 regions displayed on the map on the right side of the screen.
+5. In the popup window, click on "add row",  enter required data to the left and right columns and click "save". 
+6. Save and see the new column attached on the right of the screen.
+7. After doing required edits, click on "Save" > GeoJSON.
 
 ### Examples
 The app could be integrated into different types of projects, be it related to tourism or history. One example of integration could be a VR tour that offers an opportunity to take selfies. Example (Ohio Today Magazine): https://ohiotoday.org/CollegeGreenVR/. 
