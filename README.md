@@ -1,5 +1,5 @@
-<h1 align="center">GeoJSON file - Uzbekistan/h1>
-<p align="center"><b>A web based selife application allowing to make selfies on 360 photo backgrounds.</b><br><br>
+<h1 align="center">GeoJSON file - Uzbekistan</h1>
+<p align="center"><b>This the GeoJSON file for Uzbekistan, which can be used for various data vizualizations based on maps. It contains geometric shapes matching geographic coordinates of Uzbekistan's regions (which corresponds to administrative level 1).</b><br><br>
 <img src="https://raw.githubusercontent.com/akbartus/selfie360/main/images/example_screenshot.jpg"><br><br>
 Link to the example app: https://selfie-360.glitch.me/
 </p>
