@@ -21,24 +21,24 @@ To use it:
 
 To edit data in the GeoJSON file, follow the following steps:
 1. Open GeoJSON editor available for free at https://geojson.io/.
-<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_0.jpg">
+<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_0.jpg">
 
 2. Click on "Open" > "File" and load uzbekistan_regional.geojson.
-<img style="width:400px; align:center;" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_2.jpg">
+<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_2.jpg">
 
 3. Click on "Table" on the right side of the window and edit available rows.
-<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_3.jpg">
+<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_3.jpg">
 
 4. If there is a need for adding additional information, click on one of 14 regions displayed on the map on the right side of the screen.
 
 5. In the popup window, click on "add row",  enter required data to the left and right columns and click "save". 
-<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_4.jpg">
+<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_4.jpg">
 
 6. Save and see the new column attached on the right of the screen.
-<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_5.jpg">
+<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_5.jpg">
 
 7. After doing required edits, click on "Save" > GeoJSON.
-<img width="400" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_6.jpg">
+<img src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/instructions_6.jpg">
 
 ### Examples
 The app could be integrated into different types of projects, be it related to tourism or history. One example of integration could be a VR tour that offers an opportunity to take selfies. Example (Ohio Today Magazine): https://ohiotoday.org/CollegeGreenVR/. 
