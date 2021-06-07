@@ -1,5 +1,5 @@
 <h1 align="center">GeoJSON file - Uzbekistan</h1>
-<p align="center"><b>This the GeoJSON file for Uzbekistan, which can be used for various data vizualizations based on maps. It contains geometric shapes for 14 administrative units of Uzbekistan as well as sample data, which match with geographic coordinates on the world map.</b><br><br>
+<p align="center"><b>This GeoJSON file for Uzbekistan, which can be used for various data vizualizations based on maps. It contains geometric shapes for 14 administrative units of Uzbekistan as well as sample data, which match with geographic coordinates on the world map.</b><br><br>
 <img width="500" src="https://raw.githubusercontent.com/akbartus/geojson-uzbekistan/main/img/Uzbekistan_map.jpg">
 </p>
 
