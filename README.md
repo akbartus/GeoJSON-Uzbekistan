@@ -9,7 +9,7 @@ This file was compiled due to lack of GeoJSON for Uzbekistan on Internet. The fe
 ## Features
 :world_map: **Shapes and geocoordiates of 14 regions of Uzbekistan**: The file contains coordinates of the following regions and their respective shapes: Andijan Region, Bukhara Region, Fergana Region, Jizzakh Region, Khorezm Region, Namangan Region, Navoiy Region, Kashkadarya Region, Samarkand Region, Syrdarya Region, Surkhandarya Region, Tashkent Region, Republic of Karakalpakstan, Tashkent city.
 
-**Shapes and geocoordiates of districts of Uzbekistan**: The coordinates of the following districts and their respective shapes are present: Tashkent city.
+**Shapes and geocoordiates of districts of Uzbekistan**: The coordinates of the districts for the following regions and their respective shapes are present: Tashkent city.
 
 :information_source: **Sample data for each region and district**: The file contains sample data (name of region, name of district) which corresponds to each given shape.
 
