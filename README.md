@@ -57,3 +57,4 @@ The file can be integrated for data vizualizations projects that utilize geograp
 
 ### Latest Updates
 * Added Tashkent districts .geojson file.
+* Added Tashkent region districts .geojson file.
