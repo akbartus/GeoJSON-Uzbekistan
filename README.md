@@ -17,6 +17,7 @@ This file was compiled due to lack of GeoJSON for Uzbekistan on Internet. The fe
 
 ## Source
 The GeoJSON was developed based on geodata and shapes for each of 14 regions of Uzbekistan available at OpenStreetMap (see: https://www.openstreetmap.org/changeset/104908077#map=6/41.523/64.574). 
+The shapes for Tashkent city were developed based on: https://www.openstreetmap.org/changeset/122067175#map=11/41.2811/69.2647.
 
 ## Usage
 To use it:
