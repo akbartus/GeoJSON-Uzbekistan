@@ -11,7 +11,7 @@ This file was compiled due to lack of GeoJSON for Uzbekistan on Internet. The fe
 
 **Shapes and geocoordiates of districts of Uzbekistan**: The coordinates of the following districts and their respective shapes are present: Tashkent city.
 
-:information_source: **Sample data for each region**: The file contains sample data (name of region) which corresponds to each given shape.
+:information_source: **Sample data for each region and district**: The file contains sample data (name of region, name of district) which corresponds to each given shape.
 
 ## Source
 The GeoJSON was developed based on geodata and shapes for each of 14 regions of Uzbekistan available at OpenStreetMap (see: https://www.openstreetmap.org/changeset/104908077#map=6/41.523/64.574). 
