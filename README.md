@@ -16,10 +16,11 @@ This file was compiled due to lack of GeoJSON for Uzbekistan on Internet. The fe
 :information_source: **Sample data for each region and district**: The file contains sample data (name of region, name of district) which corresponds to each given shape.
 
 ## Source
-The GeoJSON was developed based on geodata and shapes for each of 14 regions of Uzbekistan available at OpenStreetMap (see: https://www.openstreetmap.org/changeset/104908077#map=6/41.523/64.574). 
+The GeoJSON was developed based on geodata and shapes at OpenStreetMap. In particular: 
 
-The shapes of Tashkent city districts were developed based on: https://www.openstreetmap.org/changeset/122067175#map=11/41.2811/69.2647.
-The shapes of Tashkent region districts were developed based on: https://www.openstreetmap.org/changeset/109449028#map=8/41.250/69.955
+* The shapes of regions were developed based on: https://www.openstreetmap.org/changeset/104908077#map=6/41.523/64.574). 
+* The shapes of Tashkent city districts were developed based on: https://www.openstreetmap.org/changeset/122067175#map=11/41.2811/69.2647.
+* The shapes of Tashkent region districts were developed based on: https://www.openstreetmap.org/changeset/109449028#map=8/41.250/69.955
 
 ## Usage
 To use it:
