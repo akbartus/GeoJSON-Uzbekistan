@@ -55,8 +55,8 @@ To edit data in the GeoJSON file, follow the following steps:
 The file can be integrated for data vizualizations projects that utilize geographical data easily. Example (UNDP in Uzbekistan Project): https://i-map.o3.uz. 
 
 ### Future Steps
-1. Compiling district based GeoJSON file for Uzbekistan.
-2. Developing an online tool to combine geographical information available on OpenStreetMap and pre-compiled data. 
+- [x] Compiling district based GeoJSON file for Uzbekistan.
+- [] Developing an online tool to combine geographical information available on OpenStreetMap and pre-compiled data.
 
 ### Latest Updates
 * Added Tashkent districts .geojson file.
