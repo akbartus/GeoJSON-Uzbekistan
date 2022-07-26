@@ -56,7 +56,7 @@ The file can be integrated for data vizualizations projects that utilize geograp
 
 ### Future Steps
 - [x] Compiling district based GeoJSON file for Uzbekistan.
-- [] Developing an online tool to combine geographical information available on OpenStreetMap and pre-compiled data.
+- [ ] Developing an online tool to combine geographical information available on OpenStreetMap and pre-compiled data.
 
 ### Latest Updates
 * Added Tashkent districts .geojson file.
