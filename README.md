@@ -11,8 +11,8 @@ This file was compiled due to lack of GeoJSON for Uzbekistan on Internet. The fe
 
 :world_map: **Shapes and geocoordiates of districts of Uzbekistan**: The coordinates of the districts for the following regions and their respective shapes are present: 
 * Tashkent city (12): Bektemir district, Chilonzor district, Mirobod district, Mirzo Ulugbek district, Olmazor district, Sergeli district, Shayxontohur district, Uchtepa district, Yakkasaroy district, Yangihayot district, Yashnobod district, Yunusobod district.
-* Tashkent region (15): Bekobod district, Bostonliq district, Boka district, Chinoz district, Qibray district, Toshkent district, Ohangaron district, Oqqorgon district, Parkent district, Piskent district, Quyi Chirchiq district, Orta Chirchiq district, Yangiyol district, Yuqori Chirchiq district, Zangiota district.
-* Sirdaryo region (8 districts and 2 cities of regional importance): Boyovut District, Guliston District, Mirzaobod District, Oqoltin District, Sardoba District, Sayxunobod District, Sirdaryo District, Xovos District, Gulistan city, Yangiyer city.
+* Tashkent region (15 districts and 7 cities of regional importance): Bekobod district, Bostonliq district, Boka district, Chinoz district, Qibray district, Toshkent district, Ohangaron district, Oqqorgon district, Parkent district, Piskent district, Quyi Chirchiq district, Orta Chirchiq district, Yangiyol district, Yuqori Chirchiq district, Zangiota district, Olmaliq city, Angren city, Bekobod city, Ohangaron city, Nurafshon city.
+* Sirdaryo region (8 districts and 3 cities of regional importance): Boyovut District, Guliston District, Mirzaobod District, Oqoltin District, Sardoba District, Sayxunobod District, Sirdaryo District, Xovos District, Gulistan city, Yangiyer city, Shirin city.
 
 :information_source: **Sample data for each region and district**: The file contains sample data (name of region, name of district) which corresponds to each given shape.
 
