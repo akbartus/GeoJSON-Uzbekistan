@@ -14,6 +14,7 @@ This file was compiled due to lack of GeoJSON for Uzbekistan on Internet. The fe
 * Tashkent region (15 districts and 7 cities of regional importance): Bekobod district, Bostonliq district, Boka district, Chinoz district, Qibray district, Toshkent district, Ohangaron district, Oqqorgon district, Parkent district, Piskent district, Quyi Chirchiq district, Orta Chirchiq district, Yangiyol district, Yuqori Chirchiq district, Zangiota district, Olmaliq city, Angren city, Bekobod city, Ohangaron city, Nurafshon city, Chirchiq city, Yangiyol city.
 * Sirdaryo region (8 districts and 3 cities of regional importance): Boyovut District, Guliston District, Mirzaobod District, Oqoltin District, Sardoba District, Sayxunobod District, Sirdaryo District, Xovos District, Gulistan city, Yangiyer city, Shirin city.
 * Jizzakh region (12 districts and 1 city of regional importance): Arnasoy district, Bakhmal district, Dostlik district, Forish district, Gallaorol district, Sharof Rashidov district, Mirzachul district, Pakhtakor district, Yangiobod district, Zomin district, Zafarobod district, Zarbdor district, Jizzakh city.
+* Surkhandarya region (14 districts): Angor district, Bandikhon district, Boysun district, Denov district, Jarkurgan district, Muzrabod district, Oltinsoy district, Kizirik district, Kumkurghon district, Sariosiyo district, Sherobod district, Shurchi district, Termiz district, Uzun district. 1 city of regional importance - Termez - is still missing.
 
 :information_source: **Sample data for each region and district**: The file contains sample data (name of region, name of district) which corresponds to each given shape.
 
@@ -63,3 +64,4 @@ The file can be integrated for data vizualizations projects that utilize geograp
 * Added Tashkent region districts and cities .geojson file.
 * Added Sirdaryo region districts and cities .geojson file.
 * Added Jizzakh region districts and cities .geojson file.
+* Added Surkhandarya region districts .geojson file.
